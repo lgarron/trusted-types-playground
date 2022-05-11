@@ -1,0 +1,8 @@
+{
+  auto_https off
+}
+
+:8000 {
+  file_server browse
+  header Content-Security-Policy "trusted-types dompurify; require-trusted-types-for 'script'"
+}
