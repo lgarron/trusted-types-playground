@@ -1,7 +1,7 @@
-# Trusted Types React Playground
+# Trusted Types Playground
 
 ```shell
-git clone https://github.com/lgarron/trusted-types-react-playground && cd trusted-types-react-playground
+git clone https://github.com/lgarron/trusted-types-playground && cd trusted-types-playground
 npm install
 npx parcel src/index.html
 # Open http://localhost:1234
